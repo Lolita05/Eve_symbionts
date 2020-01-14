@@ -19,6 +19,6 @@ Repository link: https://github.com/xiechaos/ribotagger
 For more details, please read the official publication at:
 https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1378-x
 
-2. Classification was carried out using IDTAXA Classufyer (Silva Database (release 132))
+2. Classification was carried out using IDTAXA Classifier (Silva Database (release 132))
 
 
