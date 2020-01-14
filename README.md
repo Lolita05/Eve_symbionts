@@ -6,12 +6,9 @@ The goal of this project is the description of the symbiont composition associat
 
 ## Objectives:
 
-\begin{item}
+- Choose the optimal method for characterizing the symbiont composition
+- Characterize the samples (diversity and abundance of symbionts) by the selected method
+- Characterize the variability of these parameters from sample to sample
 
-\item Choose the optimal method for characterizing the symbiont composition
-\item Characterize the samples (diversity and abundance of symbionts) by the selected method
-\item Characterize the variability of these parameters from sample to sample
-
-\end{item}
 
 
