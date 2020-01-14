@@ -12,5 +12,13 @@ The goal of this project is the description of the symbiont composition associat
 - Characterize the samples (diversity and abundance of symbionts) by the selected method
 - Characterize the variability of these parameters from sample to sample
 
+## Methods
+
+1. The Ribotagger was used to obtain sequences of 16 / 18s rRNA of symbionts from metatranscriptome. 
+Repository link: https://github.com/xiechaos/ribotagger
+For more details, please read the official publication at:
+https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1378-x
+
+2. Classification was carried out using IDTAXA Classufyer (Silva Database (release 132))
 
 
