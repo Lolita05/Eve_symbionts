@@ -4,7 +4,7 @@ Eulimnogammarus verrucosus  is an amphipod endemic to the unique ecosystem of La
 
 - Eve_Symbionts_Notebook - all steps of the project
 - samples.xlsx - all symbionts for samples
-- cluster_visualization - script for sample clustering
+- cluster_visualization.py - script for sample clustering
 - pca.R - script for PCA
 
 ## Goal:
