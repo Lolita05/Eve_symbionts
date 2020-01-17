@@ -3,7 +3,7 @@
 Eulimnogammarus verrucosus  is an amphipod endemic to the unique ecosystem of Lake Baikal and serves as an model in ecotoxicological studies. In this study, were analyzed 63 transcriptomes of E. verrucosus subjected to various types of stress. The transcriptome assemblies is avaliable in the GenBank database under the accession number  GHHK00000000 (E. verrucosus). 
 
 - Eve_Symbionts_Notebook - all steps of the project
-- samples.xlsx - all symbionts for samples
+- samples.xlsx - symbiont classification for all samples
 - cluster_visualization.py - script for sample clustering
 - pca.R - script for PCA
 
