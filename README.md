@@ -25,4 +25,6 @@ For more details, please read the official publication at:
 https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1378-x
 
 2. Classification was carried out using IDTAXA Classifier (Silva Database (release 132))
-
+http://www2.decipher.codes/Classification.html
+For more details, please read the official publication at:
+https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-018-0521-5
