@@ -17,7 +17,7 @@ The goal of this project is the description of the symbiont composition associat
 - Characterize the samples (diversity and abundance of symbionts) by the selected method
 - Characterize the variability of these parameters from sample to sample
 
-## Methods
+## Methods:
 
 1. The Ribotagger was used to obtain sequences of 16 / 18s rRNA of symbionts from metatranscriptome. 
 Repository link: https://github.com/xiechaos/ribotagger
@@ -28,3 +28,8 @@ https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1378-x
 http://www2.decipher.codes/Classification.html
 For more details, please read the official publication at:
 https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-018-0521-5
+
+## Results:
+- E. verrucosus has a constant composition of core symbionts. 
+- Alveolata and Gammaproteobacteria dominated in all samples. The Peritrichia subfamily, which are known to be exoparasites and to attach to the surface of the gammarid chitin covers, dominated within Alveolata. The Burkholderiaceae family dominated within the class Gammaproteobacteria. 
+- The symbiont composition of heat shock treated samples correlated with Gammaproteobacteria abundance, while that in the samples treated with phenanthrene and acetone correlated with the abundance of Alveolata.
